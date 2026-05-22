@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#output and clean fasta file
+output/
+steps/clean.fasta
